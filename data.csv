@@ -1,0 +1,13 @@
+"Month","Total Flights","Delayed Flights","Cancelled Flights"
+"January",52000,2500,150
+"February",51000,2400,120
+"March",53000,2600,180
+"April",55000,2800,200
+"May",57000,3000,220
+"June",59000,3200,240
+"July",61000,3400,260
+"August",63000,3600,280
+"September",62000,3500,250
+"October",60000,3300,230
+"November",58000,3100,210
+"December",56000,2900,200
